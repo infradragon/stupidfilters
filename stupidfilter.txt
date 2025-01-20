@@ -1,0 +1,155 @@
+! Title: Infra's Stupid Filter
+! Homepage: https://github.com/infradragon/stupidfilters
+
+! ddg bloat remover ------------------------------------------------------------
+duckduckgo.com##.social.header__label.header--aside__social.header--aside__item
+duckduckgo.com##.header__label.showcase.header--aside__item
+duckduckgo.com##.js-tag-home.no-js__hide.tag-home--slide.tag-home
+duckduckgo.com##span
+duckduckgo.com##[href="/app"]
+duckduckgo.com##[href="https://duckduckgo.com/newsletter"]
+duckduckgo.com##[href="/spread"]
+duckduckgo.com##[href="/hiring"]
+duckduckgo.com##[href="/press"]
+duckduckgo.com##.set-side
+duckduckgo.com##.js-serp-bottom-right.serp__bottom-right
+duckduckgo.com##li.zcm__item:nth-of-type(5)
+duckduckgo.com##li.zcm__item:nth-of-type(6)
+
+! 2022-02-04 https://www.eurogamer.net
+www.eurogamer.net###onetrust-consent-sdk
+
+! 2022-02-09 https://relay.firefox.com
+relay.firefox.com##.dashboard-banners > div.flx
+
+! 2022-02-12 https://html-online.com
+html-online.com##.szekcio4
+html-online.com###likeContainer
+
+! 2022-02-12 https://htmlg.com
+htmlg.com###wrapCTA
+htmlg.com##[href="/license/"]
+htmlg.com##.addthiszek
+
+! 2022-02-12 https://www.bitdegree.org
+www.bitdegree.org##.main-sale-container
+
+! 2022-02-12 https://www.cincopa.com
+www.cincopa.com##.default
+
+! 2022-02-17 https://app.nearpod.com
+app.nearpod.com##.sidebar-notes-container
+
+! 2022-02-22 https://www.newegg.com
+www.newegg.com##.at-bottom.menu.header2021-notify.header2021-nav
+www.newegg.com##.text-red.header2021-portal
+www.newegg.com##.header2021-links.section-right
+*promotions.newegg.com/^
+www.newegg.com##.page-content > div.page-section > .page-content-inner
+www.newegg.com##.header2021-cart.header2021-nav
+www.newegg.com##.radius-s.bg-lightblue.header2021-hamburger-quicklinks
+www.newegg.com##.tag-list.header-trending
+www.newegg.com##.hero-banner
+www.newegg.com###homepage_categories
+
+! 2022-02-22 https://www.cpubenchmark.net
+www.cpubenchmark.net##header
+www.cpubenchmark.net##.main-title
+
+advertising-api-**.amazon.com^
+
+! 2022-03-19 https://www.newegg.com
+www.newegg.com##.bg-blue.page-bar-text
+www.newegg.com##div.header2021-inner:nth-of-type(2)
+www.newegg.com##.bg-white.shadow-level-1.sticky-bottom-right
+
+! 2022-06-03 https://www.otterbox.com
+www.otterbox.com##.header-promotion
+
+! 2022-06-10 https://logos.fandom.com
+fandom.com###SurveyModule
+fandom.com##.render-wiki-recommendations
+fandom.com##.mcf-en
+fandom.com##.render-wiki-recommendations-right-rail
+
+! 2022-06-13 https://gamerant.com
+gamerant.com##.expandable.img-size-heading-image.responsive-img.heading_image
+gamerant.com##.related-single
+
+! 2022-06-13 https://www.wikihow.com
+www.wikihow.com###sidebar
+www.wikihow.com###nav_pro_li
+
+! 2022-08-28 https://www.virustotal.com
+www.virustotal.com###footer-action-icons
+
+! 2022-09-01 https://www.wordreference.com
+www.wordreference.com###rightcolumn
+
+@@||torproject.org^
+@@||*.torproject.org^
+
+! 2022-09-15 https://myapps.classlink.com
+myapps.classlink.com##cl-accessibility-menu
+cdn.classlink.com/beta/framework/scripts/holiday-theme-dev/*
+cdn.classlink.com/beta/framework/scripts/holiday^
+
+! 2022-12-07 https://chat.openai.com
+chat.openai.com##.gap-3\.5.text-center.items-start.flex
+chat.openai.com##.text-center.md\:px-4.md\:pb-6.md\:pt-3.px-3.pb-3.pt-2.dark\:text-white\/50.text-black\/50.text-xs
+
+! 2022-12-07 https://www.kia.com
+www.kia.com##.shared-zipmodal.modal
+
+! 2022-12-09 https://chat.openai.com
+chat.openai.com##.mb-16.mr-auto.ml-auto.mt-\[20vh\].font-semibold.text-4xl
+
+! 2022-12-19 https://chat.openai.com
+chat.openai.com##a.text-sm.cursor-pointer.text-white.duration-200.transition-colors.hover\:bg-gray-500\/10.rounded-md.gap-3.items-center.px-3.py-3.flex:nth-of-type(2)
+chat.openai.com##a.text-sm.cursor-pointer.text-white.duration-200.transition-colors.hover\:bg-gray-500\/10.rounded-md.gap-3.items-center.px-3.py-3.flex:nth-of-type(3)
+
+! 2023-01-06 https://chat.openai.com
+chat.openai.com##.dark\:text-gray-100.px-6.md\:flex-col.md\:flex.md\:h-full.lg\:max-w-3xl.md\:max-w-2xl.w-full.text-gray-800
+
+! 2023-01-14 https://www.wunderground.com
+www.wunderground.com##.video-promo.data-module
+www.wunderground.com##.recent-articles-slideshow
+
+! 2023-01-26 https://vanceai.com
+vanceai.com##.traffic-banner-preview.traffic-banner
+
+! 2023-01-26 https://kb0fxkiwisdr.hopto.org hopto is blocked because of hopto's ddns service
+@@||kb0fxkiwisdr.hopto.org:8073^
+
+! dunno why these are blocked
+@@||pixeldrain.com^
+@@||statcounter.com^
+
+! 2023-03-21 https://minesraft2.github.io dont yell "cheats" in bold text
+minesraft2.github.io##h1
+
+! 2023-08-04 https://my.visualstudio.com
+my.visualstudio.com##.info.VsSubMessageBar-180.undefined
+
+! 2023-08-05 https://myapps.classlink.com
+myapps.classlink.com##.seasonal-animation-button
+
+! 2023-08-15 https://music.youtube.com
+music.youtube.com##ytmusic-carousel-shelf-renderer.fullbleed.ytmusic-section-list-renderer.style-scope:nth-of-type(2)
+
+! Jun 5, 2024 https://nist.time.gov
+nist.time.gov##header
+
+! oneechan 4chan thing https://github.com/KevinParnell/OneeChan?tab=readme-ov-file#adblockpihole-filters-fix
+@@||4chan.org^*$csp=default-src 'self' * data: 'unsafe-inline' 'unsafe-eval'
+@@|blob:$image,media,domain=4chan.org
+@@||boards.4chan.org^$csp
+@@||4channel.org^*$csp=default-src 'self' * data: 'unsafe-inline' 'unsafe-eval'
+@@|blob:$image,media,domain=4channel.org
+@@||boards.4channel.org^$csp
+
+! Nov 25, 2024 https://www.szynalski.com
+www.szynalski.com###otgbanad-2
+
+! Jan 20, 2025 disqus is blocked for some reason, i've unblocked it on miruro
+@@||miruro-no-kuon.disqus.com/embed.js$script,domain=www.miruro.tv
