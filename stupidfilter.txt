@@ -1,5 +1,6 @@
 ! Title: Infra's Stupid Filter
 ! Homepage: https://github.com/infradragon/stupidfilters
+! Format: ublock
 
 ! ddg bloat remover ------------------------------------------------------------
 duckduckgo.com##.social.header__label.header--aside__social.header--aside__item
