@@ -154,5 +154,4 @@ www.szynalski.com###otgbanad-2
 
 ! Jan 20, 2025 disqus is blocked for some reason, i've unblocked it
 @@||miruro-no-kuon.disqus.com/embed.js$script,domain=www.miruro.tv
-@@||disqus.com^
 
