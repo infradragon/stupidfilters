@@ -153,7 +153,7 @@ nist.time.gov##header
 www.szynalski.com###otgbanad-2
 
 ! Jan 20, 2025 disqus is blocked for some reason, i've unblocked it on miruro
-@@||disqus.com,domain=www.miruro.tv
-@@||*.disqus.com,domain=www.miruro.tv
-@@||*.disquscdn.com,domain=www.miruro.tv
+@@||disqus.com^,domain=www.miruro.tv
+@@||disqus.com^,domain=www.miruro.tv
+@@||disquscdn.com^,domain=www.miruro.tv
 
