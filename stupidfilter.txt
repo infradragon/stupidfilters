@@ -157,3 +157,9 @@ www.szynalski.com###otgbanad-2
 @@||disqus.com^,domain=www.miruro.tv
 @@||disquscdn.com^,domain=www.miruro.tv
 
+! Jan 31, 2025 https://genshin-impact.fandom.com
+genshin-impact.fandom.com##.global-explore-navigation
+genshin-impact.fandom.com##.highlight.is-dark-theme.highlight__sticky-container
+
+
+
