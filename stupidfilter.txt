@@ -152,10 +152,10 @@ nist.time.gov##header
 ! Nov 25, 2024 https://www.szynalski.com
 www.szynalski.com###otgbanad-2
 
-! Jan 20, 2025 disqus is blocked for some reason, i've unblocked it on miruro
-@@||disqus.com^,domain=www.miruro.tv
-@@||miruro-no-kuon.disqus.com^,domain=www.miruro.tv
-@@||disquscdn.com^,domain=www.miruro.tv
+! Jan 20, 2025 disqus is blocked for some reason
+@@||disqus.com^
+@@||miruro-no-kuon.disqus.com^
+@@||disquscdn.com^
 
 ! Jan 31, 2025 https://genshin-impact.fandom.com
 genshin-impact.fandom.com##.global-explore-navigation
