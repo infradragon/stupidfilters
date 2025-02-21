@@ -161,5 +161,6 @@ www.szynalski.com###otgbanad-2
 genshin-impact.fandom.com##.global-explore-navigation
 genshin-impact.fandom.com##.highlight.is-dark-theme.highlight__sticky-container
 
-
+! Feb 20, 2025 https://haxnode.net # anti-anti-adblock, disable javascript too
+haxnode.net##body > span
 
