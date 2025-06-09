@@ -164,3 +164,5 @@ genshin-impact.fandom.com##.highlight.is-dark-theme.highlight__sticky-container
 ! Feb 20, 2025 https://haxnode.net # anti-anti-adblock, disable javascript too
 haxnode.net##body > span
 
+! May 24, 2025 https://mail.proton.me remove protonmail upgrade nag button in top right
+mail.proton.me##.gap-2.button-promotion--full-gradient.button-promotion--icon-gradient.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
