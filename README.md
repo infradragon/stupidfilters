@@ -18,7 +18,7 @@ Dandelion Sprout's Anti-'Functionality removal' List
 and of course, my own stupid filters!
 - https://raw.githubusercontent.com/infradragon/stupidfilters/refs/heads/main/stupidfilter.txt
 
-Dandelion Sprout's Staying On The Phone Browser (mobile only)
+Dandelion Sprout's Staying On The Phone Browser ***(mobile only)***
 - https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/stayingonbrowser/Staying%20On%20The%20Phone%20Browser
 
 copy-pastable code block:
