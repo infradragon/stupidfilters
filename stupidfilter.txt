@@ -46,7 +46,6 @@ www.newegg.com##.at-bottom.menu.header2021-notify.header2021-nav
 www.newegg.com##.text-red.header2021-portal
 www.newegg.com##.header2021-links.section-right
 *promotions.newegg.com/^
-www.newegg.com##.page-content > div.page-section > .page-content-inner
 www.newegg.com##.header2021-cart.header2021-nav
 www.newegg.com##.radius-s.bg-lightblue.header2021-hamburger-quicklinks
 www.newegg.com##.tag-list.header-trending
